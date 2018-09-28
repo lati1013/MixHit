@@ -4,6 +4,7 @@
  Author:	User
 */
 
+#include <BluetoothSerial.h>
 #include <SPIFFS.h>
 #include <SparkFunSX1509.h>
 #include <Wire.h>
@@ -110,4 +111,3 @@ void loop_3(void * pvParameters)
 		loop_OLED();
 	}
 }
-

@@ -1,5 +1,5 @@
 #include "cMenueItem.h"
-#include "../cMenue.h"
+#include "cMenue.h"
 
 cMenueItem::cMenueItem()
 {

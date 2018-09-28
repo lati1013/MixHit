@@ -1,6 +1,6 @@
 #ifndef _CMENUE_H_
 #define _CMENUE_H_
-#include "obj/cMenueItem.h"
+#include "cMenueItem.h"
 
 class cMenue
 {

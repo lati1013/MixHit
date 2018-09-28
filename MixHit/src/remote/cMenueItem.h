@@ -2,9 +2,9 @@
 #define _CMENUEITEM_H_
 
 #include "Arduino.h"
-#include "../../libs/MyString.h"
-#include "../Configuration.h"
-#include "../../driver/cOLED.h"
+#include "../libs/MyString.h"
+#include "../mixer/Configuration.h"
+#include "../driver/cOLED.h"
 
 class cMenueItem;
 

@@ -1,9 +1,9 @@
 #include "Configuration.h"
 
-#include "cMenue.h"
+#include "../remote/cMenue.h"
 #include "cCocktailMixer.h"
 #include "../driver/cOLED.h"
-#include "list/cCocktailList.h"
+#include "collections/cCocktailList.h"
 
 
 #ifndef REGION_PIN_Belegung

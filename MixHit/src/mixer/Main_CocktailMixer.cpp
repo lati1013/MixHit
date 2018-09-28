@@ -41,7 +41,7 @@ void setup_CocktailMixer()
 	#endif
 	#ifndef REGION_PinModes
 	AttacheInterrupts();
-	AttacheInterrupts(); // Aktiviert die Interrupts und legt die PinModes fest.
+	//AttacheInterrupts(); // Aktiviert die Interrupts und legt die PinModes fest.
 	Serial.println("Interrupts_OK");
 	#endif
 	gCocktailMixer.mServo.goToPosition_Close();
@@ -393,7 +393,8 @@ void loop_OLED()
 
 	gMenue.showMenue(); // Informationen des Menues an Display uebergeben
 	gOLED.DisplayLines(); // Informationen anzeigen.
-	delay(100);
+	delay(100); // TODO: Testen, ob der delay Auswirkungen auf den Webserver hat.
+
 }
 
 

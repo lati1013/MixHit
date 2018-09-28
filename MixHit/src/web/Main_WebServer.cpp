@@ -487,6 +487,7 @@ void WriteDefaultWiFiConfig()
 	appendFile(SPIFFS, pFileName, "SSID;MixHit_WiFi;Name des Netzwerkes\n\r");
 	appendFile(SPIFFS, pFileName, "Password;;Leer = kein Passwort\n\r");
 }
+
 void WriteBootstrap()
 {
 	writeFile(SPIFFS, "/bootstrap.min.css", "/*!\n * Bootstrap v3.3.7 (http://getbootstrap.com)\n * Copyright 2011-2016 Twitter, Inc.\n * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\n *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-webkit-text-size-adjust:100");
