@@ -3,6 +3,10 @@ Cocktail-Mixer HS-Karlsruhe
 
 Dies ist das Github-Repository für den Cocktail-Mixer an der Hochschule unter der Betreuung von Jürgen Walter.
 
+## Code Convention
+Damit der erstellte Code hier einheitlich aussieht, wird hier die Code Convention von Google genutzt:
+https://google.github.io/styleguide/cppguide.html
+
 ## Klonen des Projektes:
 Das Klonen des Github-Repository wird hier beschrieben: https://help.github.com/articles/cloning-a-repository/
 Eine Einleitung zu Git findet sich hier: http://rogerdudler.github.io/git-guide/index.de.html
@@ -24,12 +28,12 @@ Bei dieser Leiste sollten folgende Einträge geändert werden:
         * wenn fertig: Visual Studio neu starten
         * Nun im 2. Eintrag "ESP32 Dev Module" auswählen.
 4. Unter dem Punkt "Add Library" den Punkt "Download and Install Arduino Library" auswählen und folgende Libraries hinzufügen:
-        * ESP32
-        * FS
-        * SX1509 IO Expander
-        * SPIFFS
-        * WiFi
-        * 
+    * ESP32
+    * FS
+    * SX1509 IO Expander
+    * SPIFFS
+    * WiFi
+    * vielleicht weitere
 5. Das Projekt lässt sich nun Kompilieren
 
 ## Einrichtung unter Arduino IDE
