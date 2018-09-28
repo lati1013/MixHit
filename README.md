@@ -1,7 +1,7 @@
-﻿# MixHit
+# MixHit
 Cocktail-Mixer HS-Karlsruhe
 
-Dies ist das Github-Repository für den Cocktail-Mixer an der Hochschule unter der Betreung von Jürgen Walter.
+Dies ist das Github-Repository für den Cocktail-Mixer an der Hochschule unter der Betreuung von Jürgen Walter.
 
 ## Klonen des Projektes:
 Das Klonen des Github-Repository wird hier beschrieben: https://help.github.com/articles/cloning-a-repository/
