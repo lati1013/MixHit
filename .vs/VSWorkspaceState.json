@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MixHit"
+    "\\MixHit",
+    "\\MixHit\\src\\mixer",
+    "\\MixHit\\src\\mixer\\collections",
+    "\\MixHit\\src\\web",
+    "\\MixHit\\src\\web\\sites"
   ],
+  "SelectedNode": "\\MixHit\\MixHit.vcxproj",
   "PreviewInSolutionExplorer": false
 }

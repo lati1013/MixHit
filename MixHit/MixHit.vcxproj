@@ -82,66 +82,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cCocktail.h" />
-    <ClInclude Include="cCocktailList.h" />
-    <ClInclude Include="cCocktailMixer.h" />
-    <ClInclude Include="cServoMotor.h" />
-    <ClInclude Include="Environment.h">
-      <FileType>CppCode</FileType>
-    </ClInclude>
-    <ClInclude Include="FileOperations.h" />
-    <ClInclude Include="cGlass.h" />
-    <ClInclude Include="cGlasses.h" />
-    <ClInclude Include="cIngredient.h" />
-    <ClInclude Include="cMagnetSensor.h" />
-    <ClInclude Include="cMenue.h" />
-    <ClInclude Include="cMenueItem.h" />
-    <ClInclude Include="cMotor.h" />
-    <ClInclude Include="cOLED.h" />
-    <ClInclude Include="Configuration.h" />
-    <ClInclude Include="cOrder.h" />
-    <ClInclude Include="cQueueOfOrders.h" />
-    <ClInclude Include="cReservoir.h" />
-    <ClInclude Include="cRotateTable.h" />
-    <ClInclude Include="cScale.h" />
-    <ClInclude Include="cValveControl.h" />
-    <ClInclude Include="MyHtml.h" />
-    <ClInclude Include="I2C.h" />
-    <ClInclude Include="Main_CocktailMixer.h" />
-    <ClInclude Include="Main_WebServer.h" />
-    <ClInclude Include="MyMath.h" />
-    <ClInclude Include="MyMutex.h" />
-    <ClInclude Include="MyString.h" />
-    <ClInclude Include="__vm\.MixHit.vsarduino.h" />
+    <ClInclude Include="src\**\*.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cCocktail.cpp" />
-    <ClCompile Include="cCocktailList.cpp" />
-    <ClCompile Include="cCocktailMixer.cpp" />
-    <ClCompile Include="cGlass.cpp" />
-    <ClCompile Include="cGlasses.cpp" />
-    <ClCompile Include="cIngredient.cpp" />
-    <ClCompile Include="cMagnetSensor.cpp" />
-    <ClCompile Include="cMenue.cpp" />
-    <ClCompile Include="cMenueItem.cpp" />
-    <ClCompile Include="cMotor.cpp" />
-    <ClCompile Include="cOLED.cpp" />
-    <ClCompile Include="Configuration.cpp" />
-    <ClCompile Include="cOrder.cpp" />
-    <ClCompile Include="cQueueOfOrders.cpp" />
-    <ClCompile Include="cReservoir.cpp" />
-    <ClCompile Include="cRotateTable.cpp" />
-    <ClCompile Include="cScale.cpp" />
-    <ClCompile Include="cServoMotor.cpp" />
-    <ClCompile Include="cValveControl.cpp" />
-    <ClCompile Include="FileOperations.cpp" />
-    <ClCompile Include="I2C.cpp" />
-    <ClCompile Include="Main_CocktailMixer.cpp" />
-    <ClCompile Include="Main_WebServer.cpp" />
-    <ClCompile Include="MyHtml.cpp" />
-    <ClCompile Include="MyMath.cpp" />
-    <ClCompile Include="MyMutex.cpp" />
-    <ClCompile Include="MyString.cpp" />
+    <ClInclude Include="src\**\*.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
