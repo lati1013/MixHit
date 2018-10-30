@@ -1,16 +1,19 @@
 #include "cServoMotor.h"
 
-cServoMotor::cServoMotor(){}
-cServoMotor::cServoMotor(int pPinNummber)
+cServoMotor::cServoMotor()
 {
-	mPinNumber = pPinNummber;
-	mServo.attach(mPinNumber, 700, 2300);
+
 }
-void cServoMotor::goToPosition_Close()
+cServoMotor::cServoMotor(int pServoPin)
 {
-	mServo.write(49); // Eigentlich ist hier die angabe in °. Allerdings hat der verwendete Servo eine andere Uebersetzung. 10° im Programmcode entsprechen tatsaechlich nur wenige Grad (<10°). 
+	mPinNummer = pServoPin;                      //Der Pin mit dem der Servo verbunden ist wird definiert
+	mServo.attach(mPinNummer);                   //Der Pin wird dem Servo zugewiesen
 }
-void cServoMotor::goToPosition_Open()
+void cServoMotor::Aktivieren()
 {
-	mServo.write(45); // Eigentlich ist hier die angabe in °. Allerdings hat der verwendete Servo eine andere Uebersetzung. 10° im Programmcode entsprechen tatsaechlich nur wenige Grad (<10°). 
+	mServo.write(ServoPosAktiv);                 //Winkelposition in Grad (°) wird angefahren
+}
+void cServoMotor::Deaktivieren()
+{
+	mServo.write(ServoPosDeaktiv);               //Winkelposition in Grad (°) wird angefahren   
 }

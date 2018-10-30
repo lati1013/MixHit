@@ -1,26 +1,49 @@
 #include "cMotor.h"
-cMotor::cMotor(){}
-cMotor::cMotor(int pPinNumberMotor, int pPinNumberRPM)
+cMotor::cMotor()
 {
-	mPinNumberMotor = pPinNumberMotor;
-	mPinNumberRPM = pPinNumberRPM;
-	pinMode(mPinNumberMotor, OUTPUT);
-	pinMode(mPinNumberRPM, OUTPUT);
-	
+
+}
+
+cMotor::cMotor(int pPinPwm, int pPinDrehrichtung)
+{
+	mPinDrehrichtung = pPinDrehrichtung;
+	mPinPwm = pPinPwm;
+
+	pinMode(mPinDrehrichtung, OUTPUT);
+	pinMode(mPinPwm, OUTPUT);
+
+	ledcSetup(CHANNEL, PWM_FREQUENCY, RESOLUTION);    //PWM Setup
+	ledcAttachPin(mPinPwm, CHANNEL);                //Channelzuweisung zu PWM Pin
+
 	MotorStop();
 }
+
 void cMotor::MotorStartR()
 {
-	digitalWrite(mPinNumberRPM, LOW);
-	digitalWrite(mPinNumberMotor, HIGH);
+	digitalWrite(mPinDrehrichtung, HIGH);                   //Drehrichtung bestimmen
+	for (int dutyCycle = 0; dutyCycle <= 255; dutyCycle++)   //Motor Anfahrrampe rechtslauf
+	{
+		ledcWrite(CHANNEL, dutyCycle);
+		delay(7);
+	}
+
 }
+
 void cMotor::MotorStartL()
 {
-	digitalWrite(mPinNumberRPM, HIGH);
-	digitalWrite(mPinNumberMotor, HIGH);
+	digitalWrite(mPinDrehrichtung, LOW);                    //Drehrichtung bestimmen
+	for (int dutyCycle = 0; dutyCycle <= 255; dutyCycle++)   //Motor Anfahrrampe linkslauf
+	{
+		ledcWrite(CHANNEL, dutyCycle);
+		delay(7);
+	}
 }
+
 void cMotor::MotorStop()
 {
-	digitalWrite(mPinNumberRPM, LOW);
-	digitalWrite(mPinNumberMotor, LOW);
+	for (int dutyCycle = 255; dutyCycle >= 0; dutyCycle--)   //Motor Abbremsrampe
+	{
+		ledcWrite(CHANNEL, dutyCycle);
+		delay(7);
+	}
 }

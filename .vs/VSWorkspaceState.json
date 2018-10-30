@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\MixHit",
+    "\\MixHit\\src",
+    "\\MixHit\\src\\driver",
     "\\MixHit\\src\\mixer",
     "\\MixHit\\src\\mixer\\collections",
-    "\\MixHit\\src\\web",
-    "\\MixHit\\src\\web\\sites"
+    "\\MixHit\\src\\web"
   ],
-  "SelectedNode": "\\MixHit\\MixHit.vcxproj",
+  "SelectedNode": "\\MixHit\\src\\driver\\cServoMotor.cpp",
   "PreviewInSolutionExplorer": false
 }

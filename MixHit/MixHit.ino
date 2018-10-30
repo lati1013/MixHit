@@ -4,8 +4,7 @@
  Author:	User
 */
 
-#include <BluetoothSerial.h>
-#include <SPIFFS.h>
+
 #include <SparkFunSX1509.h>
 #include <Wire.h>
 #include <dummy.h>

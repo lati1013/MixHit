@@ -8,11 +8,11 @@ class cServoMotor
 {
 public:
 	cServoMotor();
-	cServoMotor(int pPinNummber);
-	void goToPosition_Close();
-	void goToPosition_Open();
+	cServoMotor(int pServoPin);
+	void Aktivieren();
+	void Deaktivieren();
 private:
-	int mPinNumber;
+	int mPinNummer;
 	Servo mServo;
 };
 

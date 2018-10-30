@@ -18,175 +18,314 @@
     <None Include="MixHit.ino" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
     <ClInclude Include="__vm\.MixHit.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cCocktail.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cCocktailList.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cCocktailMixer.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cGlass.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cGlasses.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cIngredient.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cMagnetSensor.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cMenue.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cMenueItem.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cMotor.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cOLED.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Configuration.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cOrder.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cQueueOfOrders.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cReservoir.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cRotateTable.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cScale.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cValveControl.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="I2C.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Main_CocktailMixer.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Main_WebServer.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyMath.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="FileOperations.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyString.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyMutex.h">
+    <ClInclude Include="src\**\*.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyHtml.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cServoMotor.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Environment.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="cCocktail.cpp">
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cCocktailList.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cCocktailMixer.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cGlass.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cGlasses.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cIngredient.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cMagnetSensor.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cMenue.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cMenueItem.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cMotor.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cOLED.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Configuration.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cOrder.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cQueueOfOrders.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cReservoir.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cRotateTable.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cScale.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cValveControl.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="I2C.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Main_CocktailMixer.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MyMath.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FileOperations.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MyString.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MyMutex.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Main_WebServer.cpp">
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MyHtml.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cServoMotor.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>

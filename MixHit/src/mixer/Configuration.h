@@ -51,11 +51,17 @@ extern cCocktailList gNonAlcoholicList;		// Bekanntmachen der Objekte
 #define PinScaleData 25
 #define PinScaleCLK 26
 
-#define PinMotor 14
+#define PinPwm 14
 #define PinDrehrichtung 12
 #define PinMagnetTaster 23
 
+#define PWM_FREQUENCY 5000								// PWM-Frequenz
+#define CHANNEL 7										// Channel
+#define RESOLUTION 8									// Resolution
+
 #define PinServoPWM 32
+#define ServoPosAktiv 20
+#define ServoPosDeaktiv 110
 
 #define PinSX1509Valve_0 7 
 #define PinSX1509Valve_1 0
