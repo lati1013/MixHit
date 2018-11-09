@@ -327,5 +327,311 @@
     <ClInclude Include="src\**\*.cpp">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\**\*.cpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

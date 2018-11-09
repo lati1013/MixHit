@@ -24,7 +24,7 @@ void cMotor::MotorStartR()
 	for (int dutyCycle = 0; dutyCycle <= 255; dutyCycle++)   //Motor Anfahrrampe rechtslauf
 	{
 		ledcWrite(CHANNEL, dutyCycle);
-		delay(7);
+		delayMicroseconds(DelayAnlauframpe);
 	}
 
 }
@@ -35,7 +35,7 @@ void cMotor::MotorStartL()
 	for (int dutyCycle = 0; dutyCycle <= 255; dutyCycle++)   //Motor Anfahrrampe linkslauf
 	{
 		ledcWrite(CHANNEL, dutyCycle);
-		delay(7);
+		delayMicroseconds(DelayAnlauframpe);
 	}
 }
 
@@ -44,6 +44,6 @@ void cMotor::MotorStop()
 	for (int dutyCycle = 255; dutyCycle >= 0; dutyCycle--)   //Motor Abbremsrampe
 	{
 		ledcWrite(CHANNEL, dutyCycle);
-		delay(7);
+		delayMicroseconds(DelayAnlauframpe);
 	}
 }

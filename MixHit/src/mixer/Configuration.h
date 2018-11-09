@@ -54,6 +54,7 @@ extern cCocktailList gNonAlcoholicList;		// Bekanntmachen der Objekte
 #define PinPwm 14
 #define PinDrehrichtung 12
 #define PinMagnetTaster 23
+#define DelayAnlauframpe 500							// Angabe in µs
 
 #define PWM_FREQUENCY 5000								// PWM-Frequenz
 #define CHANNEL 7										// Channel
